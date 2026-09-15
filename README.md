@@ -9,4 +9,4 @@ Workbench.
 Depois de instalado, gere o comando no terminal do VSCode
 php -S localhost:8084.
 
-# Desenvolvido por Leonardo Pires Tirado.
+Desenvolvido por Leonardo Pires Tirado.
